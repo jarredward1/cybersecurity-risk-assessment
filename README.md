@@ -1,4 +1,4 @@
-# 🔍 iBank Financials — Cybersecurity Risk Assessment
+# iBank Financials — Cybersecurity Risk Assessment
 
 > A structured risk assessment for a fictional publicly-traded financial institution, identifying critical assets, evaluating threats and vulnerabilities, and calculating risk scores using an established likelihood and impact framework.
 
