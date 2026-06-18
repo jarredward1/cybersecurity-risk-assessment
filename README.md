@@ -97,6 +97,18 @@ Risk scores calculated using: **Likelihood (1-5) x Impact (1-5)**
 
 ---
 
+## 👥 Audit Team
+
+This was a group engagement completed by an audit team:
+
+- Kayla Hodge
+- Mark VanDike
+- Justin VanDrunen
+- Jarred Ward
+- Jordan Wicks
+
+---
+
 ## 👤 Author
 
 **Jarred Ward**
